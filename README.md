@@ -1,7 +1,7 @@
 # ArenaLive for Ascension Bronzebeard/Malfurion.
 
 **->** ArenaLive is an unit frame addon that is based on the ArenaLive Spectator UI. Apart from raid boss frames, all necessary frames are included.<br>
-**->** For customization check ArenaLive inside addons options.
+**->** For customization check ArenaLive inside addons options.<br>
 **->** Every frame can be enabled/disabled.
 
 ## Features:
